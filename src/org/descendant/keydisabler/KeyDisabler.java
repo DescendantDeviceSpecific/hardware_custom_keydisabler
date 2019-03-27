@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package org.pixelexperience.keydisabler;
+package org.descendant.keydisabler;
 
 /*
  * Disable capacitive keys

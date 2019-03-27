@@ -15,6 +15,6 @@
 //
 
 java_library {
-    name: "org.pixelexperience.keydisabler",
+    name: "org.descendant.keydisabler",
     srcs: ["src//**/*.java"],
 }
